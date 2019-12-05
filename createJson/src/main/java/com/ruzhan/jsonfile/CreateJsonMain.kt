@@ -2,6 +2,8 @@ package com.ruzhan.jsonfile
 
 import com.google.gson.Gson
 import com.ruzhan.jsonfile.helper.MovieHelper
+import com.ruzhan.jsonfile.model.Movie
+import com.ruzhan.jsonfile.model.MovieDetail
 import java.io.File
 
 object CreateJsonMain {
@@ -47,17 +49,36 @@ object CreateJsonMain {
 
     private fun createMovieListToJsonFile() {
         println("createMovieListToJsonFile call...")
-        val movieList = MovieHelper.movieList
+        val movieList = getMovieList()
         val movieMap = MovieHelper.getMovieMap(movieList)
         println("createMovieListToJsonFile movieMap size:" + movieMap.size)
         MovieHelper.movieListToJsonFile(movieMap, movieListFile.absolutePath, mainGSon)
         println("======== createMovieListToJsonFile finish !!! ==========")
     }
 
+    private fun getMovieList(): List<Movie> {
+        val movieList = MovieHelper.movieList
+        for (index in movieList.indices) {
+            val item = movieList[index]
+            item.id = (index + 1).toString()
+        }
+        return movieList
+    }
+
     private fun createMovieDetailListToJsonFile() {
         println("createMovieDetailListToJsonFile call...")
-        val detailList = MovieHelper.movieDetailList
+        val detailList = getMovieDetailList()
         MovieHelper.movieDetailListToJsonFile(detailList, movieDetailFile.absolutePath, mainGSon)
         println("======= createMovieDetailListToJsonFile finish !!! ==========")
+    }
+
+    private fun getMovieDetailList(): List<MovieDetail> {
+        val detailList = MovieHelper.movieDetailList
+        for (index in detailList.indices) {
+            val item = detailList[index]
+            item.id = (index + 1 + 10000).toString()
+            item.movieId = (index + 1).toString()
+        }
+        return detailList
     }
 }

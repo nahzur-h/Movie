@@ -12,7 +12,7 @@ object TheHunt {
     private const val PLAY_COUNT = "7"
 
     private const val TITLE = "BBC One - The Hunt"
-    private const val TAG = "纪录片·自然"
+    private const val TAG = "BBC"
 
     private const val IMAGE = "https://raw.githubusercontent.com/ruzhan123/Lion/master/json/api/image/the-hunt.jpg"
 
