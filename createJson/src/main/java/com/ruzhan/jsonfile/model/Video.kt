@@ -9,8 +9,7 @@ class Video {
     var playNumber: Int = 0
     var playNumberDesc: String
     var playWebUrl: String
-
-    var videoUrl: String = ""
+    var m3u8Url: String = ""
 
     constructor(id: String, title: String, image: String, playCount: String, playNumber: Int,
                 playNumberDesc: String, playWebUrl: String) {
@@ -24,7 +23,7 @@ class Video {
     }
 
     constructor(id: String, title: String, image: String, playCount: String, playNumber: Int,
-                playNumberDesc: String, playWebUrl: String, videoUrl: String) {
+                playNumberDesc: String, playWebUrl: String, m3u8Url: String) {
         this.id = id
         this.title = title
         this.image = image
@@ -32,6 +31,6 @@ class Video {
         this.playNumber = playNumber
         this.playNumberDesc = playNumberDesc
         this.playWebUrl = playWebUrl
-        this.videoUrl = videoUrl
+        this.m3u8Url = m3u8Url
     }
 }

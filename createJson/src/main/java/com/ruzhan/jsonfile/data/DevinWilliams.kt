@@ -52,43 +52,53 @@ object DevinWilliams {
 
         videoList.add(Video((ID + 11).toString(),
                 "1，篮球训练纪录片《10000小时》", IMAGE, PLAY_COUNT, 1, "第一集",
-                "http://player.bilibili.com/player.html?aid=2659444&cid=4153257&page=1"))
+                "http://player.bilibili.com/player.html?aid=2659444&cid=4153257&page=1",
+            "https://raw.githubusercontent.com/ruzhan123/Movie/master/home/10000-hours-devin-williams-01/playlist.m3u8"))
 
         videoList.add(Video((ID + 12).toString(),
                 "2，篮球训练纪录片《10000小时》", IMAGE, PLAY_COUNT, 2, "第二集",
-                "http://player.bilibili.com/player.html?aid=2659816&cid=4153770&page=1"))
+                "http://player.bilibili.com/player.html?aid=2659816&cid=4153770&page=1",
+            "https://raw.githubusercontent.com/ruzhan123/Movie/master/home/10000-hours-devin-williams-02/playlist.m3u8"))
 
         videoList.add(Video((ID + 13).toString(),
                 "3，篮球训练纪录片《10000小时》", IMAGE, PLAY_COUNT, 3, "第三集",
-                "http://player.bilibili.com/player.html?aid=2662826&cid=4158697&page=1"))
+                "http://player.bilibili.com/player.html?aid=2662826&cid=4158697&page=1",
+            "https://raw.githubusercontent.com/ruzhan123/Movie/master/home/10000-hours-devin-williams-03/playlist.m3u8"))
 
         videoList.add(Video((ID + 14).toString(),
                 "4，篮球训练纪录片《10000小时》", IMAGE, PLAY_COUNT, 4, "第四集",
-                "http://player.bilibili.com/player.html?aid=2673458&cid=4175752&page=1"))
+                "http://player.bilibili.com/player.html?aid=2673458&cid=4175752&page=1",
+            "https://raw.githubusercontent.com/ruzhan123/Movie/master/home/10000-hours-devin-williams-04/playlist.m3u8"))
 
         videoList.add(Video((ID + 15).toString(),
                 "5，篮球训练纪录片《10000小时》", IMAGE, PLAY_COUNT, 5, "第五集",
-                "http://player.bilibili.com/player.html?aid=2711840&cid=4236056&page=1"))
+                "http://player.bilibili.com/player.html?aid=2711840&cid=4236056&page=1",
+            "https://raw.githubusercontent.com/ruzhan123/Movie/master/home/10000-hours-devin-williams-05/playlist.m3u8"))
 
         videoList.add(Video((ID + 16).toString(),
                 "篮球训练纪录片《10000小时》5.2", IMAGE, PLAY_COUNT, 6, "5.2集",
-                "http://player.bilibili.com/player.html?aid=26023215&cid=44601502&page=1"))
+                "http://player.bilibili.com/player.html?aid=26023215&cid=44601502&page=1",
+            "https://raw.githubusercontent.com/ruzhan123/Movie/master/home/10000-hours-devin-williams-05-02/playlist.m3u8"))
 
         videoList.add(Video((ID + 17).toString(),
                 "6，篮球训练纪录片《10000小时》", IMAGE, PLAY_COUNT, 7, "第六集",
-                "http://player.bilibili.com/player.html?aid=2717828&cid=4245426&page=1"))
+                "http://player.bilibili.com/player.html?aid=2717828&cid=4245426&page=1",
+            "https://raw.githubusercontent.com/ruzhan123/Movie/master/home/10000-hours-devin-williams-06-01/playlist.m3u8"))
 
         videoList.add(Video((ID + 18).toString(),
                 "篮球训练纪录片《10000小时》6.2", IMAGE, PLAY_COUNT, 8, "6.2集",
-                "http://player.bilibili.com/player.html?aid=26023561&cid=44602501&page=1"))
+                "http://player.bilibili.com/player.html?aid=26023561&cid=44602501&page=1",
+            "https://raw.githubusercontent.com/ruzhan123/Movie/master/home/10000-hours-devin-williams-06-02/playlist.m3u8"))
 
         videoList.add(Video((ID + 19).toString(),
                 "7，篮球训练纪录片《10000小时》第七部", IMAGE, PLAY_COUNT, 9, "第七集",
-                "http://player.bilibili.com/player.html?aid=26023991&cid=44603241&page=1"))
+                "http://player.bilibili.com/player.html?aid=26023991&cid=44603241&page=1",
+            "https://raw.githubusercontent.com/ruzhan123/Movie/master/home/10000-hours-devin-williams-07/playlist.m3u8"))
 
         videoList.add(Video((ID + 20).toString(),
                 "中英字幕10000小时8.1集 归零Back to Zero", IMAGE, PLAY_COUNT, 10, "8.1集",
-                "http://player.bilibili.com/player.html?aid=5370407&cid=8730740&page=1"))
+                "http://player.bilibili.com/player.html?aid=5370407&cid=8730740&page=1",
+            "https://raw.githubusercontent.com/ruzhan123/Movie/master/home/10000-hours-devin-williams-08/playlist.m3u8"))
 
         videoList.add(Video((ID + 21).toString(),
                 "《10000小时》纪录片 Episode 8.5", IMAGE, PLAY_COUNT, 11, "8.5集",
