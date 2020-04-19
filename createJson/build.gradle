@@ -42,3 +42,26 @@ compileTestKotlin {
         jvmTarget = "1.8"
     }
 }
+
+task ffmpegCommendSet() {
+    String mediaName = ""
+    if (!mediaName.isBlank()) {
+        checkMediaInfo(mediaName)
+    }
+}
+
+void checkMediaInfo(String mediaName) {
+    println("checkMediaInfo called...")
+    exec {
+        workingDir '../movie-source/'
+        commandLine 'ffprobe', '' + mediaName + ".flv"
+    }
+}
+
+void transformToMp4(String mediaName) {
+    println("transformToMp4 called...")
+    exec {
+        workingDir '../movie-source/'
+        commandLine 'ffmpeg', '-i', '' + mediaName + ".flv", '-acodec', 'copy', '' + mediaName + ".mp4"
+    }
+}
