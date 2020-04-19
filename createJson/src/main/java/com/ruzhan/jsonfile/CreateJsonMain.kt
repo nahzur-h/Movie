@@ -2,6 +2,7 @@ package com.ruzhan.jsonfile
 
 import com.google.gson.Gson
 import com.ruzhan.jsonfile.helper.MovieHelper
+import com.ruzhan.jsonfile.helper.MovieListFileHelper
 import com.ruzhan.jsonfile.model.Movie
 import com.ruzhan.jsonfile.model.MovieDetail
 import java.io.File
@@ -21,12 +22,13 @@ object CreateJsonMain {
 
     @JvmStatic
     fun main(args: Array<String>) {
-        initCreateJsonFile()
-        createMovieListToJsonFile()
-        createMovieDetailListToJsonFile()
-        println("=======")
-        println("==============")
-        println("======= CreateJsonMain finish !!! =======")
+//        initCreateJsonFile()
+//        createMovieListToJsonFile()
+//        createMovieDetailListToJsonFile()
+//        println("=======")
+//        println("==============")
+//        println("======= CreateJsonMain finish !!! =======")
+        MovieListFileHelper.init()
     }
 
     private fun initCreateJsonFile() {
