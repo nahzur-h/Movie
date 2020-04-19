@@ -26,8 +26,6 @@ object MovieHelper {
             list.add(TED2017.movie)
             list.add(TED2016.movie)
             list.add(CosmicDisclosure.movie)
-            list.add(CosmicDisclosure2.movie)
-            list.add(CosmicDisclosure3.movie)
             list.add(Interstella.movie)
             list.add(DaftPunk.movie)
             list.add(Human.movie)
