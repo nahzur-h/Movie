@@ -20,5 +20,5 @@ interface MovieDao {
     fun loadMovieList(): Flowable<List<Movie>>
 
     @Query("SELECT * FROM movie WHERE type=:type ORDER BY timestamp DESC")
-    fun loadMovieListTag(type: String) 
+    fun loadMovieListTag(type: String): Flowable<List<Movie>>
 }
