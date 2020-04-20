@@ -43,18 +43,14 @@ compileTestKotlin {
     }
 }
 
-task ffmpegCommendSet() {
-    String mediaName = ""
-    if (!mediaName.isBlank()) {
-        checkMediaInfo(mediaName)
-    }
-}
+String mediaName = ""
 
-void checkMediaInfo(String mediaName) {
-    println("checkMediaInfo called...")
-    exec {
-        workingDir '../movie-source/'
-        commandLine 'ffprobe', '' + mediaName + ".flv"
+task ffmpegCommendSet() {
+    if (!mediaName.isBlank()) {
+        createMediaNameDir(mediaName)
+        transformToMp4(mediaName)
+        transformToTs(mediaName)
+        transformToTsM3U8(mediaName)
     }
 }
 
@@ -64,4 +60,40 @@ void transformToMp4(String mediaName) {
         workingDir '../movie-source/'
         commandLine 'ffmpeg', '-i', '' + mediaName + ".flv", '-acodec', 'copy', '' + mediaName + ".mp4"
     }
+}
+
+void transformToTs(String mediaName) {
+    println("transformToTs called...")
+    exec {
+        workingDir '../movie-source/'
+        commandLine 'ffmpeg', '-i', '' + mediaName + ".mp4", '-c', 'copy',
+                '-bsf:v', 'h264_mp4toannexb', '-f', 'mpegts', '' + mediaName + ".ts"
+    }
+}
+
+void transformToTsM3U8(String mediaName) {
+    println("transformToTsM3U8 called...")
+    exec {
+        workingDir '../movie-source/'
+        commandLine 'ffmpeg', '-i', '' + mediaName + ".ts", '-c', 'copy',
+                '-map', '0', '-f', 'segment', '-segment_list', 'playlist.m3u8',
+                '-segment_time', '10', '' + mediaName + "%03d.ts"
+    }
+}
+
+File createMediaNameDir(String mediaName) {
+    println("createMediaNameDir called...")
+    File dirFile = new File(System.getProperty("user.dir"))
+    File userDirFile = dirFile.absolutePath.contains("createJson") ?
+            dirFile.parentFile : dirFile
+    println("userDirFile:${userDirFile.absolutePath}")
+    File movieSourceFile = new File(userDirFile, "movie-source")
+    println("movieSourceFile:${movieSourceFile.absolutePath}")
+    File mediaFile = new File(movieSourceFile, mediaName)
+    if (!mediaFile.exists()) {
+        mediaFile.mkdirs()
+    }
+    String mediaDir = mediaFile.absolutePath
+    println("mediaFile:${mediaDir}")
+    return mediaFile
 }
