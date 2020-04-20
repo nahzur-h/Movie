@@ -114,7 +114,7 @@ object MovieListFileHelper {
                         }
                         "</title>" -> {
                             val title = stringBuffer.toString()
-                            movieItem.id = md5(title).toInt(16).toString()
+                            movieItem.id = md5(title)
                             movieItem.title = title
                         }
                         "</type>" -> {
