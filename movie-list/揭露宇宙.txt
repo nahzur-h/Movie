@@ -42,7 +42,7 @@ https://raw.githubusercontent.com/ruzhan123/Movie/master/json/api/image/cosmic-d
 </introduce-text>
 
 <introduce-text>
-克瑞古迪先生传递了蓝色鸟貌外星人的信息，阐述了人类将会在（非宗教）精神信仰上提升的很多细节。
+Corey Goode 传递了蓝色鸟貌外星人的信息，阐述了人类将会在（非宗教）精神信仰上提升的很多细节。
 </introduce-text>
 
 <introduce-image>
@@ -83,7 +83,7 @@ https://raw.githubusercontent.com/ruzhan123/Movie/master/json/api/image/cosmic-d
 </introduce-video-title>
 
 <introduce-video-image>
-https://raw.githubusercontent.com/ruzhan123/Lion/master/json/api/image/cosmi-disclosure02.jpg
+https://raw.githubusercontent.com/ruzhan123/Movie/master/json/api/image/cosmic-disclosure-006.jpg
 </introduce-video-image>
 
 <introduce-video-m3u8>
