@@ -115,3 +115,16 @@ https://raw.githubusercontent.com/ruzhan123/Movie/master/json/api/image/cosmic-d
 <introduce-video-m3u8>
 https://raw.githubusercontent.com/ruzhan123/Movie/master/home/cosmic-disclosure-william-tompkins-deep/playlist.m3u8
 </introduce-video-m3u8>
+
+
+<introduce-video-title>
+超级联盟的结束
+</introduce-video-title>
+
+<introduce-video-image>
+https://raw.githubusercontent.com/ruzhan123/Movie/master/json/api/image/cosmic-disclosure-end-of-the-super-federation-001.jpg
+</introduce-video-image>
+
+<introduce-video-m3u8>
+https://raw.githubusercontent.com/ruzhan123/Movie/master/home/cosmic-disclosure-end-of-the-super-federation/playlist.m3u8
+</introduce-video-m3u8>
