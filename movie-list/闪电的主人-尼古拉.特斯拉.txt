@@ -7,7 +7,7 @@
 </type>
 
 <image>
-https://raw.githubusercontent.com/ruzhan123/Lion/master/json/api/image/nikola-tesla.jpg
+https://raw.githubusercontent.com/ruzhan123/Movie/master/json/api/image/nikola-tesla.jpg
 </image>
 
 <content>
@@ -19,29 +19,33 @@ https://raw.githubusercontent.com/ruzhan123/Lion/master/json/api/image/nikola-te
 尼古拉·特斯拉，塞尔维亚裔美籍发明家，物理学家，机械工程师，电机工程师和未来学家。
 </introduce-text>
 
+<introduce-image>
+https://raw.githubusercontent.com/ruzhan123/Movie/master/json/api/image/nikola-tesla01.jpg
+</introduce-image>
+
 <introduce-text>
 被认为是电力商业化的重要推动者，并因主要设计了现代交流电力系统而最为人知。
 </introduce-text>
-
-<introduce-image>
-https://raw.githubusercontent.com/ruzhan123/Lion/master/json/api/image/nikola-tesla01.jpg
-</introduce-image>
 
 <introduce-text>
 在迈克尔·法拉第发现的电磁场理论的基础上，特斯拉在电磁场领域有着多项革命性的发明。
 </introduce-text>
 
+<introduce-image>
+https://raw.githubusercontent.com/ruzhan123/Movie/master/json/api/image/nikola-tesla-pic01.jpg
+</introduce-image>
+
 <introduce-text>
 他的多项相关的专利以及电磁学的理论研究工作是现代的无线通信和无线电的基石。
 </introduce-text>
 
-<introduce-image>
-https://raw.githubusercontent.com/ruzhan123/Lion/master/json/api/image/nikola-tesla02.jpg
-</introduce-image>
-
 <introduce-text>
 在赢得著名的19世纪80年代的“电流战争”及在1894年成功进行短波无线通信试验之后，特斯拉被认为是当时美国最伟大的电机工程师之一。
 </introduce-text>
+
+<introduce-image>
+https://raw.githubusercontent.com/ruzhan123/Movie/master/json/api/image/nikola-tesla02.jpg
+</introduce-image>
 
 <introduce-text>
 他的许多发现被认为是具有开创性的，是电机工程学的先驱。
@@ -52,7 +56,7 @@ https://raw.githubusercontent.com/ruzhan123/Lion/master/json/api/image/nikola-te
 </introduce-text>
 
 <introduce-image>
-https://raw.githubusercontent.com/ruzhan123/Lion/master/json/api/image/nikola-tesla03.jpg
+https://raw.githubusercontent.com/ruzhan123/Movie/master/json/api/image/nikola-tesla03.jpg
 </introduce-image>
 
 <introduce-text>
@@ -63,6 +67,10 @@ https://raw.githubusercontent.com/ruzhan123/Lion/master/json/api/image/nikola-te
 因为他举止怪异，特斯拉被普遍认为是“疯狂科学家”的原型。他对于金钱和法律事务之不在乎亦是其一生之致命伤。
 </introduce-text>
 
+<introduce-image>
+https://raw.githubusercontent.com/ruzhan123/Movie/master/json/api/image/nikola-tesla-pic02.jpg
+</introduce-image>
+
 <introduce-text>
 数家电子公司（今日美国电子业龙头的前身）联合派出一群能言善道的律师，夺走了他大部分的专利。
 </introduce-text>
@@ -72,7 +80,7 @@ https://raw.githubusercontent.com/ruzhan123/Lion/master/json/api/image/nikola-te
 </introduce-text>
 
 <introduce-image>
-https://raw.githubusercontent.com/ruzhan123/Lion/master/json/api/image/nikola-tesla04.jpg
+https://raw.githubusercontent.com/ruzhan123/Movie/master/json/api/image/nikola-tesla04.jpg
 </introduce-image>
 
 <introduce-text>
@@ -84,13 +92,12 @@ https://raw.githubusercontent.com/ruzhan123/Lion/master/json/api/image/nikola-te
 </introduce-text>
 
 
-
 <introduce-video-title>
 闪电的主人—尼古拉.特斯拉
 </introduce-video-title>
 
 <introduce-video-image>
-https://raw.githubusercontent.com/ruzhan123/Lion/master/json/api/image/nikola-tesla.jpg
+https://raw.githubusercontent.com/ruzhan123/Movie/master/json/api/image/nikola-tesla-pic03.jpg
 </introduce-video-image>
 
 <introduce-video-m3u8>

@@ -7,7 +7,7 @@
 </type>
 
 <image>
-https://raw.githubusercontent.com/ruzhan123/Lion/master/json/api/image/devin-williams.jpg
+https://raw.githubusercontent.com/ruzhan123/Movie/master/json/api/image/devin-williams.jpg
 </image>
 
 <content>
@@ -19,29 +19,44 @@ https://raw.githubusercontent.com/ruzhan123/Lion/master/json/api/image/devin-wil
 一部篮球训练纪录片。其中的10000小时精神值得所有热爱篮球的人思考。
 </introduce-text>
 
+<introduce-image>
+https://raw.githubusercontent.com/ruzhan123/Movie/master/json/api/image/devin-williams01.jpg
+</introduce-image>
+
 <introduce-text>
 德文·威廉姆斯，在youtube炙手可热的美国训练师和视频剪辑师，创造了篮球纪录片《10000小时》和训练系列片《in the lab》等，实战水平相当高。
 </introduce-text>
 
-<introduce-image>
-https://raw.githubusercontent.com/ruzhan123/Lion/master/json/api/image/devin-williams01.jpg
-</introduce-image>
-
 <introduce-text>
-谁能想象，一个膝盖有伤，之前完全不会剪辑的街头球手能成为红火于youtube和业余篮球圈的篮球训练师? 德文·威廉姆斯做到了。
+谁能想象，一个膝盖有伤，之前完全不会剪辑的街头球手能成为红火于youtube和业余篮球圈的篮球训练师? DW做到了。
 </introduce-text>
+
+<introduce-image>
+https://raw.githubusercontent.com/ruzhan123/Movie/master/json/api/image/10000-hours-devin-williams-pic01.jpg
+</introduce-image>
 
 <introduce-text>
 在一个偶然的契机下，他被两个华裔小子缠着教授运球，在反省自己对生活的态度后，他不辞辛劳的帮助兄弟俩matty和kyle训练，从未停歇。
 </introduce-text>
 
+<introduce-text>
+在见到兄弟俩前，DW正过着不好的生活，他在大学里弄伤了自己的膝盖，对生活颓废，终日以大麻来蒙蔽自己，直到教授这两个华裔孩子，用他自己的话来说就是“我努力的保护着火种”。
+</introduce-text>
+
+<introduce-image>
+https://raw.githubusercontent.com/ruzhan123/Movie/master/json/api/image/10000-hours-devin-williams-pic02.jpg
+</introduce-image>
+
+<introduce-text>
+就这样《10000小时》系列诞生了，成为了经典的励志篮球训练纪录片。之后德文顺利的得到了街球专业人士的帮助，其中包括街球宗师——教授的支持。
+</introduce-text>
 
 <introduce-video-title>
 第一集
 </introduce-video-title>
 
 <introduce-video-image>
-https://raw.githubusercontent.com/ruzhan123/Lion/master/json/api/image/devin-williams.jpg
+https://raw.githubusercontent.com/ruzhan123/Movie/master/json/api/image/10000-hours-devin-williams-001.jpg
 </introduce-video-image>
 
 <introduce-video-m3u8>
@@ -54,7 +69,7 @@ https://raw.githubusercontent.com/ruzhan123/Movie/master/home/10000-hours-devin-
 </introduce-video-title>
 
 <introduce-video-image>
-https://raw.githubusercontent.com/ruzhan123/Lion/master/json/api/image/devin-williams.jpg
+https://raw.githubusercontent.com/ruzhan123/Movie/master/json/api/image/10000-hours-devin-williams-002.jpg
 </introduce-video-image>
 
 <introduce-video-m3u8>
@@ -67,7 +82,7 @@ https://raw.githubusercontent.com/ruzhan123/Movie/master/home/10000-hours-devin-
 </introduce-video-title>
 
 <introduce-video-image>
-https://raw.githubusercontent.com/ruzhan123/Lion/master/json/api/image/devin-williams.jpg
+https://raw.githubusercontent.com/ruzhan123/Movie/master/json/api/image/10000-hours-devin-williams-003.jpg
 </introduce-video-image>
 
 <introduce-video-m3u8>
@@ -80,7 +95,7 @@ https://raw.githubusercontent.com/ruzhan123/Movie/master/home/10000-hours-devin-
 </introduce-video-title>
 
 <introduce-video-image>
-https://raw.githubusercontent.com/ruzhan123/Lion/master/json/api/image/devin-williams.jpg
+https://raw.githubusercontent.com/ruzhan123/Movie/master/json/api/image/10000-hours-devin-williams-004.jpg
 </introduce-video-image>
 
 <introduce-video-m3u8>
@@ -93,7 +108,7 @@ https://raw.githubusercontent.com/ruzhan123/Movie/master/home/10000-hours-devin-
 </introduce-video-title>
 
 <introduce-video-image>
-https://raw.githubusercontent.com/ruzhan123/Lion/master/json/api/image/devin-williams.jpg
+https://raw.githubusercontent.com/ruzhan123/Movie/master/json/api/image/10000-hours-devin-williams-005-01.jpg
 </introduce-video-image>
 
 <introduce-video-m3u8>
@@ -106,7 +121,7 @@ https://raw.githubusercontent.com/ruzhan123/Movie/master/home/10000-hours-devin-
 </introduce-video-title>
 
 <introduce-video-image>
-https://raw.githubusercontent.com/ruzhan123/Lion/master/json/api/image/devin-williams.jpg
+https://raw.githubusercontent.com/ruzhan123/Movie/master/json/api/image/10000-hours-devin-williams-005-02.jpg
 </introduce-video-image>
 
 <introduce-video-m3u8>
@@ -119,7 +134,7 @@ https://raw.githubusercontent.com/ruzhan123/Movie/master/home/10000-hours-devin-
 </introduce-video-title>
 
 <introduce-video-image>
-https://raw.githubusercontent.com/ruzhan123/Lion/master/json/api/image/devin-williams.jpg
+https://raw.githubusercontent.com/ruzhan123/Movie/master/json/api/image/10000-hours-devin-williams-006-01.jpg
 </introduce-video-image>
 
 <introduce-video-m3u8>
@@ -132,7 +147,7 @@ https://raw.githubusercontent.com/ruzhan123/Movie/master/home/10000-hours-devin-
 </introduce-video-title>
 
 <introduce-video-image>
-https://raw.githubusercontent.com/ruzhan123/Lion/master/json/api/image/devin-williams.jpg
+https://raw.githubusercontent.com/ruzhan123/Movie/master/json/api/image/10000-hours-devin-williams-006-02.jpg
 </introduce-video-image>
 
 <introduce-video-m3u8>
@@ -145,7 +160,7 @@ https://raw.githubusercontent.com/ruzhan123/Movie/master/home/10000-hours-devin-
 </introduce-video-title>
 
 <introduce-video-image>
-https://raw.githubusercontent.com/ruzhan123/Lion/master/json/api/image/devin-williams.jpg
+https://raw.githubusercontent.com/ruzhan123/Movie/master/json/api/image/10000-hours-devin-williams-007.jpg
 </introduce-video-image>
 
 <introduce-video-m3u8>
@@ -158,7 +173,7 @@ https://raw.githubusercontent.com/ruzhan123/Movie/master/home/10000-hours-devin-
 </introduce-video-title>
 
 <introduce-video-image>
-https://raw.githubusercontent.com/ruzhan123/Lion/master/json/api/image/devin-williams.jpg
+https://raw.githubusercontent.com/ruzhan123/Movie/master/json/api/image/10000-hours-devin-williams-008.jpg
 </introduce-video-image>
 
 <introduce-video-m3u8>
