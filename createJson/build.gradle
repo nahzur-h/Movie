@@ -43,7 +43,7 @@ compileTestKotlin {
     }
 }
 
-String mediaName = "cosmic-disclosure-corey-guide-to-non-terrestrial-beings"
+String mediaName = ""
 
 task ffmpegCommendSet() {
     if (!mediaName.isBlank()) {

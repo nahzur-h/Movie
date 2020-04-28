@@ -90,14 +90,28 @@ https://raw.githubusercontent.com/ruzhan123/Movie/master/json/api/image/cosmic-d
 https://raw.githubusercontent.com/ruzhan123/Movie/master/home/cosmic-disclosure-corey-guide-to-non-terrestrial-beings/playlist.m3u8
 </introduce-video-m3u8>
 
+
 <introduce-video-title>
-威廉·汤普金斯的证词
+揭露宇宙-周年特辑1
 </introduce-video-title>
 
 <introduce-video-image>
-https://raw.githubusercontent.com/ruzhan123/Movie/master/json/api/image/cosmic-disclosure-COREY-20-and-back-001.jpg
+https://raw.githubusercontent.com/ruzhan123/Movie/master/json/api/image/cosmic-disclosure-year-001.jpg
 </introduce-video-image>
 
 <introduce-video-m3u8>
-https://raw.githubusercontent.com/ruzhan123/Movie/master/home/cosmic-disclosure-COREY-20-and-back/playlist.m3u8
+https://raw.githubusercontent.com/ruzhan123/Movie/master/home/cosmic-disclosure-year-01/playlist.m3u8
+</introduce-video-m3u8>
+
+
+<introduce-video-title>
+威廉·汤普金斯-深度揭露
+</introduce-video-title>
+
+<introduce-video-image>
+https://raw.githubusercontent.com/ruzhan123/Movie/master/json/api/image/cosmic-disclosure-william-tompkins-deep-001.jpg
+</introduce-video-image>
+
+<introduce-video-m3u8>
+https://raw.githubusercontent.com/ruzhan123/Movie/master/home/cosmic-disclosure-william-tompkins-deep/playlist.m3u8
 </introduce-video-m3u8>
