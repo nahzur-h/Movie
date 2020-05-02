@@ -3,7 +3,7 @@
 </title>
 
 <type>
-纪录片
+励志
 </type>
 
 <image>

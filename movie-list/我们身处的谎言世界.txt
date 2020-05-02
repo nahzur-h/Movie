@@ -3,7 +3,7 @@
 </title>
 
 <type>
-纪录片
+揭露
 </type>
 
 <image>
@@ -20,7 +20,7 @@ https://raw.githubusercontent.com/ruzhan123/Movie/master/json/api/image/lie-we-l
 </introduce-text>
 
 <introduce-image>
-https://raw.githubusercontent.com/ruzhan123/Movie/master/json/api/image/lie-we-live01.jpg
+https://raw.githubusercontent.com/ruzhan123/Movie/master/json/api/image/the-lie-we-live-002.jpg
 </introduce-image>
 
 <introduce-text>

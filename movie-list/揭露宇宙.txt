@@ -3,7 +3,7 @@ Cosmic Disclosure
 </title>
 
 <type>
-纪录片
+揭露
 </type>
 
 <image>
