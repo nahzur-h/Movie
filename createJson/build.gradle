@@ -120,7 +120,7 @@ compileTestKotlin {
     }
 }
 
-String mediaName = "human2015"
+String mediaName = ""
 
 task ffmpegCommendSet() {
     if (!mediaName.isBlank()) {
