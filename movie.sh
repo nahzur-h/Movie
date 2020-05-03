@@ -10,9 +10,9 @@ handlerMovie() {
 }
 
 handlerMovieDir() {
-	movieNameCopy=${1}
-	sourceDir='/'
-	tagDir='../../home/${movieNameCopy}'
+	tagMovieName=${1}
+	sourceDir="/"
+	tagDir="../../home/${tagMovieName}"
 	mkdir ${tagDir}
 	sourceFileList=`ls ${sourceDir}`
 	for element in ${sourceFileList}
@@ -20,14 +20,14 @@ handlerMovieDir() {
 		mv ${element} ${tagDir}
 	done
 	cd ..
-	rmkdir ${movieNameCopy}
+	rmdir ${tagMovieName}
 }
 
 handlerGitPush() {
-	movieNameCopy=${1}
+	contentText=${1}
 	cd ..
 	git add .
-	git commit -m "add ${movieNameCopy} ts set"
+	git commit -m "add ${contentText} ts set"
 	git fetch origin
 	git rebase origin/master
 	git push origin master:master
