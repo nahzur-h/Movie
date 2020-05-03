@@ -5,8 +5,32 @@ handlerMovie() {
 	ffmpeg -i ${1}.ts -c copy -map 0 -f segment -segment_list playlist.m3u8 -segment_time 10 ${1}%03d.ts
 
 	mv ${1}.ts ../
-	rm -f ${1}.flv
+	mv ${1}.flv ../
 	rm -f ${1}.mp4
+}
+
+handlerMovieDir() {
+	movieNameCopy=${1}
+	sourceDir='/'
+	tagDir='../../home/${movieNameCopy}'
+	mkdir ${tagDir}
+	sourceFileList=`ls ${sourceDir}`
+	for element in ${sourceFileList}
+	do
+		mv ${element} ${tagDir}
+	done
+	cd ..
+	rmkdir ${movieNameCopy}
+}
+
+handlerGitPush() {
+	movieNameCopy=${1}
+	cd ..
+	git add .
+	git commit -m "add ${movieNameCopy} ts set"
+	git fetch origin
+	git rebase origin/master
+	git push origin master:master
 }
 
 movieName=$1
@@ -20,4 +44,6 @@ mv ${movieName}.flv ${movieName}
 cd ${movieName}
 
 handlerMovie ${movieName}
+handlerMovieDir ${movieName}
+handlerGitPush ${movieName}
 echo "handler finish "${movieName}
