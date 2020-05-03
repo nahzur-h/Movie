@@ -1,15 +1,23 @@
 #!/bin/bash
+handlerMovie() {
+	ffmpeg -i ${1}.flv -acodec copy -vcodec copy ${1}.mp4
+	ffmpeg -i ${1}.mp4 -c copy -bsf:v h264_mp4toannexb -f mpegts ${1}.ts
+	ffmpeg -i ${1}.ts -c copy -map 0 -f segment -segment_list playlist.m3u8 -segment_time 10 ${1}%03d.ts
+
+	mv ${1}.ts ../
+	rm -f ${1}.flv
+	rm -f ${1}.mp4
+}
+
 movieName=$1
 readonly movieName
+
 sourceDir="movie-source"
 cd ${sourceDir}
+
 mkdir ${movieName}
 mv ${movieName}.flv ${movieName}
 cd ${movieName}
-ffmpeg -i ${movieName}.flv -acodec copy -vcodec copy ${movieName}.mp4
-ffmpeg -i ${movieName}.mp4 -c copy -bsf:v h264_mp4toannexb -f mpegts ${movieName}.ts
-ffmpeg -i ${movieName}.ts -c copy -map 0 -f segment -segment_list playlist.m3u8 -segment_time 10 ${movieName}%03d.ts
-mv ${movieName}.ts ../
-rm -f ${movieName}.flv
-rm -f ${movieName}.mp4
+
+handlerMovie ${movieName}
 echo "handler finish "${movieName}
