@@ -11,12 +11,13 @@ handlerMovie() {
 
 handlerMovieDir() {
 	tagMovieName=${1}
-	sourceDir="/"
+	sourceDir="${dir}"
 	tagDir="../../home/${tagMovieName}"
 	mkdir ${tagDir}
 	sourceFileList=`ls ${sourceDir}`
 	for element in ${sourceFileList}
 	do
+		echo ${element}" to "${tagDir}
 		mv ${element} ${tagDir}
 	done
 	cd ..
