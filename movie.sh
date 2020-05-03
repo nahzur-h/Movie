@@ -17,7 +17,6 @@ handlerMovieDir() {
 	sourceFileList=`ls ${sourceDir}`
 	for element in ${sourceFileList}
 	do
-		echo ${element}" to "${tagDir}
 		mv ${element} ${tagDir}
 	done
 	cd ..
