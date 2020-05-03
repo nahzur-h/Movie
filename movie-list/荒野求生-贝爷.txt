@@ -3,7 +3,7 @@
 </title>
 
 <type>
-户外
+探险
 </type>
 
 <image>
