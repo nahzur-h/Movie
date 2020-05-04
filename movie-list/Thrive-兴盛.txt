@@ -37,7 +37,7 @@ Thrive《兴盛》
 </introduce-video-title>
 
 <introduce-video-image>
-https://raw.githubusercontent.com/nahzur-h/Movie/master/json/api/image/thrive01.jpg
+https://raw.githubusercontent.com/nahzur-h/Movie/master/json/api/image/thrive-001.jpg
 </introduce-video-image>
 
 <introduce-video-m3u8>
