@@ -19,6 +19,14 @@
 
 </introduce-text>
 
+<introduce-image>
+
+</introduce-image>
+
+<introduce-text>
+
+</introduce-text>
+
 <introduce-text>
 
 </introduce-text>
