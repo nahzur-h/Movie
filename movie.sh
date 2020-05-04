@@ -5,7 +5,7 @@ handlerMovie() {
 	ffmpeg -i ${1}.ts -c copy -map 0 -f segment -segment_list playlist.m3u8 -segment_time 10 ${1}%03d.ts
 
 	mv ${1}.ts ../
-	mv ${1}.flv ../
+	rm -f ${1}.flv
 	rm -f ${1}.mp4
 }
 
