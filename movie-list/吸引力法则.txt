@@ -32,7 +32,7 @@ https://raw.githubusercontent.com/nahzur-h/Movie/master/json/api/image/the-secre
 </introduce-text>
 
 <introduce-image>
-https://raw.githubusercontent.com/nahzur-h/Movie/master/json/api/image/the-secret-img01.jpg
+https://raw.githubusercontent.com/nahzur-h/Movie/master/json/api/image/the-secret-001.jpg
 </introduce-image>
 
 <introduce-text>
@@ -49,7 +49,7 @@ https://raw.githubusercontent.com/nahzur-h/Movie/master/json/api/image/the-secre
 </introduce-video-title>
 
 <introduce-video-image>
-https://raw.githubusercontent.com/nahzur-h/Movie/master/json/api/image/the-secret-img01.jpg
+https://raw.githubusercontent.com/nahzur-h/Movie/master/json/api/image/the-secret-002.jpg
 </introduce-video-image>
 
 <introduce-video-m3u8>

@@ -32,7 +32,7 @@ https://raw.githubusercontent.com/nahzur-h/Movie/master/json/api/image/the-story
 </introduce-text>
 
 <introduce-image>
-https://raw.githubusercontent.com/nahzur-h/Movie/master/json/api/image/the-story-of-dod01.jpg
+https://raw.githubusercontent.com/nahzur-h/Movie/master/json/api/image/thes-story-of-god-001.jpg
 </introduce-image>
 
 <introduce-text>
@@ -49,7 +49,7 @@ https://raw.githubusercontent.com/nahzur-h/Movie/master/json/api/image/the-story
 </introduce-video-title>
 
 <introduce-video-image>
-https://raw.githubusercontent.com/nahzur-h/Movie/master/json/api/image/the-story-of-dod01.jpg
+https://raw.githubusercontent.com/nahzur-h/Movie/master/json/api/image/thes-story-of-god-002.jpg
 </introduce-video-image>
 
 <introduce-video-m3u8>
