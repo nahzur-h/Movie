@@ -97,5 +97,5 @@ https://raw.githubusercontent.com/nahzur-h/Movie/master/json/api/image/lion-slee
 </introduce-video-image>
 
 <introduce-video-m3u8>
-https://raw.githubusercontent.com/ruzhan123/Movie/master/home/lion-sleeps-no-more-01/playlist.m3u8
+https://raw.githubusercontent.com/nahzur-h/Movie/master/home/lion-sleeps-no-more-01/playlist.m3u8
 </introduce-video-m3u8>
