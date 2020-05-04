@@ -7,7 +7,7 @@
 </type>
 
 <image>
-https://raw.githubusercontent.com/ruzhan123/Movie/master/json/api/image/devin-williams.jpg
+https://raw.githubusercontent.com/nahzur-h/Movie/master/json/api/image/devin-williams.jpg
 </image>
 
 <content>
@@ -20,7 +20,7 @@ https://raw.githubusercontent.com/ruzhan123/Movie/master/json/api/image/devin-wi
 </introduce-text>
 
 <introduce-image>
-https://raw.githubusercontent.com/ruzhan123/Movie/master/json/api/image/devin-williams01.jpg
+https://raw.githubusercontent.com/nahzur-h/Movie/master/json/api/image/devin-williams01.jpg
 </introduce-image>
 
 <introduce-text>
@@ -32,7 +32,7 @@ https://raw.githubusercontent.com/ruzhan123/Movie/master/json/api/image/devin-wi
 </introduce-text>
 
 <introduce-image>
-https://raw.githubusercontent.com/ruzhan123/Movie/master/json/api/image/10000-hours-devin-williams-pic01.jpg
+https://raw.githubusercontent.com/nahzur-h/Movie/master/json/api/image/10000-hours-devin-williams-pic01.jpg
 </introduce-image>
 
 <introduce-text>
@@ -44,7 +44,7 @@ https://raw.githubusercontent.com/ruzhan123/Movie/master/json/api/image/10000-ho
 </introduce-text>
 
 <introduce-image>
-https://raw.githubusercontent.com/ruzhan123/Movie/master/json/api/image/10000-hours-devin-williams-pic02.jpg
+https://raw.githubusercontent.com/nahzur-h/Movie/master/json/api/image/10000-hours-devin-williams-pic02.jpg
 </introduce-image>
 
 <introduce-text>
@@ -56,11 +56,11 @@ https://raw.githubusercontent.com/ruzhan123/Movie/master/json/api/image/10000-ho
 </introduce-video-title>
 
 <introduce-video-image>
-https://raw.githubusercontent.com/ruzhan123/Movie/master/json/api/image/10000-hours-devin-williams-001.jpg
+https://raw.githubusercontent.com/nahzur-h/Movie/master/json/api/image/10000-hours-devin-williams-001.jpg
 </introduce-video-image>
 
 <introduce-video-m3u8>
-https://raw.githubusercontent.com/ruzhan123/Movie/master/home/10000-hours-devin-williams-01/playlist.m3u8
+https://raw.githubusercontent.com/nahzur-h/Movie/master/home/10000-hours-devin-williams-01/playlist.m3u8
 </introduce-video-m3u8>
 
 
@@ -69,11 +69,11 @@ https://raw.githubusercontent.com/ruzhan123/Movie/master/home/10000-hours-devin-
 </introduce-video-title>
 
 <introduce-video-image>
-https://raw.githubusercontent.com/ruzhan123/Movie/master/json/api/image/10000-hours-devin-williams-002.jpg
+https://raw.githubusercontent.com/nahzur-h/Movie/master/json/api/image/10000-hours-devin-williams-002.jpg
 </introduce-video-image>
 
 <introduce-video-m3u8>
-https://raw.githubusercontent.com/ruzhan123/Movie/master/home/10000-hours-devin-williams-02/playlist.m3u8
+https://raw.githubusercontent.com/nahzur-h/Movie/master/home/10000-hours-devin-williams-02/playlist.m3u8
 </introduce-video-m3u8>
 
 
@@ -82,11 +82,11 @@ https://raw.githubusercontent.com/ruzhan123/Movie/master/home/10000-hours-devin-
 </introduce-video-title>
 
 <introduce-video-image>
-https://raw.githubusercontent.com/ruzhan123/Movie/master/json/api/image/10000-hours-devin-williams-003.jpg
+https://raw.githubusercontent.com/nahzur-h/Movie/master/json/api/image/10000-hours-devin-williams-003.jpg
 </introduce-video-image>
 
 <introduce-video-m3u8>
-https://raw.githubusercontent.com/ruzhan123/Movie/master/home/10000-hours-devin-williams-03/playlist.m3u8
+https://raw.githubusercontent.com/nahzur-h/Movie/master/home/10000-hours-devin-williams-03/playlist.m3u8
 </introduce-video-m3u8>
 
 
@@ -95,11 +95,11 @@ https://raw.githubusercontent.com/ruzhan123/Movie/master/home/10000-hours-devin-
 </introduce-video-title>
 
 <introduce-video-image>
-https://raw.githubusercontent.com/ruzhan123/Movie/master/json/api/image/10000-hours-devin-williams-004.jpg
+https://raw.githubusercontent.com/nahzur-h/Movie/master/json/api/image/10000-hours-devin-williams-004.jpg
 </introduce-video-image>
 
 <introduce-video-m3u8>
-https://raw.githubusercontent.com/ruzhan123/Movie/master/home/10000-hours-devin-williams-04/playlist.m3u8
+https://raw.githubusercontent.com/nahzur-h/Movie/master/home/10000-hours-devin-williams-04/playlist.m3u8
 </introduce-video-m3u8>
 
 
@@ -108,11 +108,11 @@ https://raw.githubusercontent.com/ruzhan123/Movie/master/home/10000-hours-devin-
 </introduce-video-title>
 
 <introduce-video-image>
-https://raw.githubusercontent.com/ruzhan123/Movie/master/json/api/image/10000-hours-devin-williams-005-01.jpg
+https://raw.githubusercontent.com/nahzur-h/Movie/master/json/api/image/10000-hours-devin-williams-005-01.jpg
 </introduce-video-image>
 
 <introduce-video-m3u8>
-https://raw.githubusercontent.com/ruzhan123/Movie/master/home/10000-hours-devin-williams-05/playlist.m3u8
+https://raw.githubusercontent.com/nahzur-h/Movie/master/home/10000-hours-devin-williams-05/playlist.m3u8
 </introduce-video-m3u8>
 
 
@@ -121,11 +121,11 @@ https://raw.githubusercontent.com/ruzhan123/Movie/master/home/10000-hours-devin-
 </introduce-video-title>
 
 <introduce-video-image>
-https://raw.githubusercontent.com/ruzhan123/Movie/master/json/api/image/10000-hours-devin-williams-005-02.jpg
+https://raw.githubusercontent.com/nahzur-h/Movie/master/json/api/image/10000-hours-devin-williams-005-02.jpg
 </introduce-video-image>
 
 <introduce-video-m3u8>
-https://raw.githubusercontent.com/ruzhan123/Movie/master/home/10000-hours-devin-williams-05-02/playlist.m3u8
+https://raw.githubusercontent.com/nahzur-h/Movie/master/home/10000-hours-devin-williams-05-02/playlist.m3u8
 </introduce-video-m3u8>
 
 
@@ -134,11 +134,11 @@ https://raw.githubusercontent.com/ruzhan123/Movie/master/home/10000-hours-devin-
 </introduce-video-title>
 
 <introduce-video-image>
-https://raw.githubusercontent.com/ruzhan123/Movie/master/json/api/image/10000-hours-devin-williams-006-01.jpg
+https://raw.githubusercontent.com/nahzur-h/Movie/master/json/api/image/10000-hours-devin-williams-006-01.jpg
 </introduce-video-image>
 
 <introduce-video-m3u8>
-https://raw.githubusercontent.com/ruzhan123/Movie/master/home/10000-hours-devin-williams-06-01/playlist.m3u8
+https://raw.githubusercontent.com/nahzur-h/Movie/master/home/10000-hours-devin-williams-06-01/playlist.m3u8
 </introduce-video-m3u8>
 
 
@@ -147,11 +147,11 @@ https://raw.githubusercontent.com/ruzhan123/Movie/master/home/10000-hours-devin-
 </introduce-video-title>
 
 <introduce-video-image>
-https://raw.githubusercontent.com/ruzhan123/Movie/master/json/api/image/10000-hours-devin-williams-006-02.jpg
+https://raw.githubusercontent.com/nahzur-h/Movie/master/json/api/image/10000-hours-devin-williams-006-02.jpg
 </introduce-video-image>
 
 <introduce-video-m3u8>
-https://raw.githubusercontent.com/ruzhan123/Movie/master/home/10000-hours-devin-williams-06-02/playlist.m3u8
+https://raw.githubusercontent.com/nahzur-h/Movie/master/home/10000-hours-devin-williams-06-02/playlist.m3u8
 </introduce-video-m3u8>
 
 
@@ -160,11 +160,11 @@ https://raw.githubusercontent.com/ruzhan123/Movie/master/home/10000-hours-devin-
 </introduce-video-title>
 
 <introduce-video-image>
-https://raw.githubusercontent.com/ruzhan123/Movie/master/json/api/image/10000-hours-devin-williams-007.jpg
+https://raw.githubusercontent.com/nahzur-h/Movie/master/json/api/image/10000-hours-devin-williams-007.jpg
 </introduce-video-image>
 
 <introduce-video-m3u8>
-https://raw.githubusercontent.com/ruzhan123/Movie/master/home/10000-hours-devin-williams-07/playlist.m3u8
+https://raw.githubusercontent.com/nahzur-h/Movie/master/home/10000-hours-devin-williams-07/playlist.m3u8
 </introduce-video-m3u8>
 
 
@@ -173,9 +173,9 @@ https://raw.githubusercontent.com/ruzhan123/Movie/master/home/10000-hours-devin-
 </introduce-video-title>
 
 <introduce-video-image>
-https://raw.githubusercontent.com/ruzhan123/Movie/master/json/api/image/10000-hours-devin-williams-008.jpg
+https://raw.githubusercontent.com/nahzur-h/Movie/master/json/api/image/10000-hours-devin-williams-008.jpg
 </introduce-video-image>
 
 <introduce-video-m3u8>
-https://raw.githubusercontent.com/ruzhan123/Movie/master/home/10000-hours-devin-williams-08/playlist.m3u8
+https://raw.githubusercontent.com/nahzur-h/Movie/master/home/10000-hours-devin-williams-08/playlist.m3u8
 </introduce-video-m3u8>

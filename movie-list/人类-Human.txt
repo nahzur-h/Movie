@@ -7,7 +7,7 @@
 </type>
 
 <image>
-https://raw.githubusercontent.com/ruzhan123/Movie/master/json/api/image/human-logo.png
+https://raw.githubusercontent.com/nahzur-h/Movie/master/json/api/image/human-logo.png
 </image>
 
 <content>
@@ -20,7 +20,7 @@ https://raw.githubusercontent.com/ruzhan123/Movie/master/json/api/image/human-lo
 </introduce-text>
 
 <introduce-image>
-https://raw.githubusercontent.com/ruzhan123/Movie/master/json/api/image/human-img01.jpg
+https://raw.githubusercontent.com/nahzur-h/Movie/master/json/api/image/human-img01.jpg
 </introduce-image>
 
 <introduce-text>
@@ -32,7 +32,7 @@ https://raw.githubusercontent.com/ruzhan123/Movie/master/json/api/image/human-im
 </introduce-text>
 
 <introduce-image>
-https://raw.githubusercontent.com/ruzhan123/Movie/master/json/api/image/human-img02.jpg
+https://raw.githubusercontent.com/nahzur-h/Movie/master/json/api/image/human-img02.jpg
 </introduce-image>
 
 <introduce-text>
@@ -49,9 +49,9 @@ https://raw.githubusercontent.com/ruzhan123/Movie/master/json/api/image/human-im
 </introduce-video-title>
 
 <introduce-video-image>
-https://raw.githubusercontent.com/ruzhan123/Movie/master/json/api/image/humen2015-001.jpg
+https://raw.githubusercontent.com/nahzur-h/Movie/master/json/api/image/humen2015-001.jpg
 </introduce-video-image>
 
 <introduce-video-m3u8>
-https://raw.githubusercontent.com/ruzhan123/Movie/master/home/human2015/playlist.m3u8
+https://raw.githubusercontent.com/nahzur-h/Movie/master/home/human2015/playlist.m3u8
 </introduce-video-m3u8>

@@ -7,7 +7,7 @@
 </type>
 
 <image>
-https://raw.githubusercontent.com/ruzhan123/Movie/master/json/api/image/monsanto01.jpg
+https://raw.githubusercontent.com/nahzur-h/Movie/master/json/api/image/monsanto01.jpg
 </image>
 
 <content>
@@ -20,7 +20,7 @@ https://raw.githubusercontent.com/ruzhan123/Movie/master/json/api/image/monsanto
 </introduce-text>
 
 <introduce-image>
-https://raw.githubusercontent.com/ruzhan123/Movie/master/json/api/image/monsanto.jpg
+https://raw.githubusercontent.com/nahzur-h/Movie/master/json/api/image/monsanto.jpg
 </introduce-image>
 
 <introduce-text>
@@ -32,7 +32,7 @@ https://raw.githubusercontent.com/ruzhan123/Movie/master/json/api/image/monsanto
 </introduce-text>
 
 <introduce-image>
-https://raw.githubusercontent.com/ruzhan123/Movie/master/json/api/image/monsanto-001.jpg
+https://raw.githubusercontent.com/nahzur-h/Movie/master/json/api/image/monsanto-001.jpg
 </introduce-image>
 
 <introduce-text>
@@ -49,9 +49,9 @@ https://raw.githubusercontent.com/ruzhan123/Movie/master/json/api/image/monsanto
 </introduce-video-title>
 
 <introduce-video-image>
-https://raw.githubusercontent.com/ruzhan123/Movie/master/json/api/image/monsanto-002.jpg
+https://raw.githubusercontent.com/nahzur-h/Movie/master/json/api/image/monsanto-002.jpg
 </introduce-video-image>
 
 <introduce-video-m3u8>
-https://raw.githubusercontent.com/ruzhan123/Movie/master/home/monsanto/playlist.m3u8
+https://raw.githubusercontent.com/nahzur-h/Movie/master/home/monsanto/playlist.m3u8
 </introduce-video-m3u8>

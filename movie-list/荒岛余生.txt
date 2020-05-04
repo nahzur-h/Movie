@@ -7,7 +7,7 @@
 </type>
 
 <image>
-https://raw.githubusercontent.com/ruzhan123/Movie/master/json/api/image/naked-castaway.jpg
+https://raw.githubusercontent.com/nahzur-h/Movie/master/json/api/image/naked-castaway.jpg
 </image>
 
 <content>
@@ -20,7 +20,7 @@ Naked Castaway 前英国陆军上尉埃德·斯塔福德即将展开电视史上
 </introduce-text>
 
 <introduce-image>
-https://raw.githubusercontent.com/ruzhan123/Movie/master/json/api/image/naked-castaway01.jpg
+https://raw.githubusercontent.com/nahzur-h/Movie/master/json/api/image/naked-castaway01.jpg
 </introduce-image>
 
 <introduce-text>
@@ -32,7 +32,7 @@ https://raw.githubusercontent.com/ruzhan123/Movie/master/json/api/image/naked-ca
 </introduce-text>
 
 <introduce-image>
-https://raw.githubusercontent.com/ruzhan123/Movie/master/json/api/image/naked-castaway-01-001.jpg
+https://raw.githubusercontent.com/nahzur-h/Movie/master/json/api/image/naked-castaway-01-001.jpg
 </introduce-image>
 
 <introduce-text>
@@ -49,9 +49,9 @@ https://raw.githubusercontent.com/ruzhan123/Movie/master/json/api/image/naked-ca
 </introduce-video-title>
 
 <introduce-video-image>
-https://raw.githubusercontent.com/ruzhan123/Movie/master/json/api/image/naked-castaway-01-002.jpg
+https://raw.githubusercontent.com/nahzur-h/Movie/master/json/api/image/naked-castaway-01-002.jpg
 </introduce-video-image>
 
 <introduce-video-m3u8>
-https://raw.githubusercontent.com/ruzhan123/Movie/master/home/naked-castaway-01/playlist.m3u8
+https://raw.githubusercontent.com/nahzur-h/Movie/master/home/naked-castaway-01/playlist.m3u8
 </introduce-video-m3u8>

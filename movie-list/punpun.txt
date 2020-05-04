@@ -7,7 +7,7 @@
 </type>
 
 <image>
-https://raw.githubusercontent.com/ruzhan123/Movie/master/json/api/image/punpun.jpg
+https://raw.githubusercontent.com/nahzur-h/Movie/master/json/api/image/punpun.jpg
 </image>
 
 <content>
@@ -20,7 +20,7 @@ https://raw.githubusercontent.com/ruzhan123/Movie/master/json/api/image/punpun.j
 </introduce-text>
 
 <introduce-image>
-https://raw.githubusercontent.com/ruzhan123/Movie/master/json/api/image/punpun01.jpg
+https://raw.githubusercontent.com/nahzur-h/Movie/master/json/api/image/punpun01.jpg
 </introduce-image>
 
 <introduce-text>
@@ -32,7 +32,7 @@ https://raw.githubusercontent.com/ruzhan123/Movie/master/json/api/image/punpun01
 </introduce-text>
 
 <introduce-image>
-https://raw.githubusercontent.com/ruzhan123/Movie/master/json/api/image/punpun-001.jpg
+https://raw.githubusercontent.com/nahzur-h/Movie/master/json/api/image/punpun-001.jpg
 </introduce-image>
 
 <introduce-text>
@@ -53,9 +53,9 @@ https://raw.githubusercontent.com/ruzhan123/Movie/master/json/api/image/punpun-0
 </introduce-video-title>
 
 <introduce-video-image>
-https://raw.githubusercontent.com/ruzhan123/Movie/master/json/api/image/punpun-002.jpg
+https://raw.githubusercontent.com/nahzur-h/Movie/master/json/api/image/punpun-002.jpg
 </introduce-video-image>
 
 <introduce-video-m3u8>
-https://raw.githubusercontent.com/ruzhan123/Movie/master/home/punpun/playlist.m3u8
+https://raw.githubusercontent.com/nahzur-h/Movie/master/home/punpun/playlist.m3u8
 </introduce-video-m3u8>

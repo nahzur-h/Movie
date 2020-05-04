@@ -7,7 +7,7 @@ Cosmic Disclosure
 </type>
 
 <image>
-https://raw.githubusercontent.com/ruzhan123/Movie/master/json/api/image/cosmi-disclosure02.jpg
+https://raw.githubusercontent.com/nahzur-h/Movie/master/json/api/image/cosmi-disclosure02.jpg
 </image>
 
 <content>
@@ -20,7 +20,7 @@ https://raw.githubusercontent.com/ruzhan123/Movie/master/json/api/image/cosmi-di
 </introduce-text>
 
 <introduce-image>
-https://raw.githubusercontent.com/ruzhan123/Movie/master/json/api/image/cosmic-disclosure-001.jpg
+https://raw.githubusercontent.com/nahzur-h/Movie/master/json/api/image/cosmic-disclosure-001.jpg
 </introduce-image>
 
 
@@ -33,7 +33,7 @@ Corey Goode 叙述的真实事件对有些人来说几乎就是科幻小说，�
 </introduce-text>
 
 <introduce-image>
-https://raw.githubusercontent.com/ruzhan123/Movie/master/json/api/image/cosmic-disclosure-002.jpg
+https://raw.githubusercontent.com/nahzur-h/Movie/master/json/api/image/cosmic-disclosure-002.jpg
 </introduce-image>
 
 
@@ -46,7 +46,7 @@ Corey Goode 传递了蓝色鸟貌外星人的信息，阐述了人类将会在�
 </introduce-text>
 
 <introduce-image>
-https://raw.githubusercontent.com/ruzhan123/Movie/master/json/api/image/cosmic-disclosure-003.jpg
+https://raw.githubusercontent.com/nahzur-h/Movie/master/json/api/image/cosmic-disclosure-003.jpg
 </introduce-image>
 
 
@@ -59,7 +59,7 @@ https://raw.githubusercontent.com/ruzhan123/Movie/master/json/api/image/cosmic-d
 </introduce-text>
 
 <introduce-image>
-https://raw.githubusercontent.com/ruzhan123/Movie/master/json/api/image/cosmic-disclosure-004.jpg
+https://raw.githubusercontent.com/nahzur-h/Movie/master/json/api/image/cosmic-disclosure-004.jpg
 </introduce-image>
 
 <introduce-text>
@@ -71,7 +71,7 @@ https://raw.githubusercontent.com/ruzhan123/Movie/master/json/api/image/cosmic-d
 </introduce-text>
 
 <introduce-image>
-https://raw.githubusercontent.com/ruzhan123/Movie/master/json/api/image/cosmic-disclosure-005.jpg
+https://raw.githubusercontent.com/nahzur-h/Movie/master/json/api/image/cosmic-disclosure-005.jpg
 </introduce-image>
 
 <introduce-text>
@@ -83,11 +83,11 @@ https://raw.githubusercontent.com/ruzhan123/Movie/master/json/api/image/cosmic-d
 </introduce-video-title>
 
 <introduce-video-image>
-https://raw.githubusercontent.com/ruzhan123/Movie/master/json/api/image/cosmic-disclosure-006.jpg
+https://raw.githubusercontent.com/nahzur-h/Movie/master/json/api/image/cosmic-disclosure-006.jpg
 </introduce-video-image>
 
 <introduce-video-m3u8>
-https://raw.githubusercontent.com/ruzhan123/Movie/master/home/cosmic-disclosure-corey-guide-to-non-terrestrial-beings/playlist.m3u8
+https://raw.githubusercontent.com/nahzur-h/Movie/master/home/cosmic-disclosure-corey-guide-to-non-terrestrial-beings/playlist.m3u8
 </introduce-video-m3u8>
 
 
@@ -96,11 +96,11 @@ https://raw.githubusercontent.com/ruzhan123/Movie/master/home/cosmic-disclosure-
 </introduce-video-title>
 
 <introduce-video-image>
-https://raw.githubusercontent.com/ruzhan123/Movie/master/json/api/image/cosmic-disclosure-year-001.jpg
+https://raw.githubusercontent.com/nahzur-h/Movie/master/json/api/image/cosmic-disclosure-year-001.jpg
 </introduce-video-image>
 
 <introduce-video-m3u8>
-https://raw.githubusercontent.com/ruzhan123/Movie/master/home/cosmic-disclosure-year-01/playlist.m3u8
+https://raw.githubusercontent.com/nahzur-h/Movie/master/home/cosmic-disclosure-year-01/playlist.m3u8
 </introduce-video-m3u8>
 
 
@@ -109,11 +109,11 @@ https://raw.githubusercontent.com/ruzhan123/Movie/master/home/cosmic-disclosure-
 </introduce-video-title>
 
 <introduce-video-image>
-https://raw.githubusercontent.com/ruzhan123/Movie/master/json/api/image/cosmic-disclosure-william-tompkins-deep-001.jpg
+https://raw.githubusercontent.com/nahzur-h/Movie/master/json/api/image/cosmic-disclosure-william-tompkins-deep-001.jpg
 </introduce-video-image>
 
 <introduce-video-m3u8>
-https://raw.githubusercontent.com/ruzhan123/Movie/master/home/cosmic-disclosure-william-tompkins-deep/playlist.m3u8
+https://raw.githubusercontent.com/nahzur-h/Movie/master/home/cosmic-disclosure-william-tompkins-deep/playlist.m3u8
 </introduce-video-m3u8>
 
 
@@ -122,9 +122,9 @@ https://raw.githubusercontent.com/ruzhan123/Movie/master/home/cosmic-disclosure-
 </introduce-video-title>
 
 <introduce-video-image>
-https://raw.githubusercontent.com/ruzhan123/Movie/master/json/api/image/cosmic-disclosure-end-of-the-super-federation-001.jpg
+https://raw.githubusercontent.com/nahzur-h/Movie/master/json/api/image/cosmic-disclosure-end-of-the-super-federation-001.jpg
 </introduce-video-image>
 
 <introduce-video-m3u8>
-https://raw.githubusercontent.com/ruzhan123/Movie/master/home/cosmic-disclosure-end-of-the-super-federation/playlist.m3u8
+https://raw.githubusercontent.com/nahzur-h/Movie/master/home/cosmic-disclosure-end-of-the-super-federation/playlist.m3u8
 </introduce-video-m3u8>

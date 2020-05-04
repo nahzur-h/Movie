@@ -7,7 +7,7 @@
 </type>
 
 <image>
-https://raw.githubusercontent.com/ruzhan123/Movie/master/json/api/image/nikola-tesla.jpg
+https://raw.githubusercontent.com/nahzur-h/Movie/master/json/api/image/nikola-tesla.jpg
 </image>
 
 <content>
@@ -20,7 +20,7 @@ https://raw.githubusercontent.com/ruzhan123/Movie/master/json/api/image/nikola-t
 </introduce-text>
 
 <introduce-image>
-https://raw.githubusercontent.com/ruzhan123/Movie/master/json/api/image/nikola-tesla01.jpg
+https://raw.githubusercontent.com/nahzur-h/Movie/master/json/api/image/nikola-tesla01.jpg
 </introduce-image>
 
 <introduce-text>
@@ -32,7 +32,7 @@ https://raw.githubusercontent.com/ruzhan123/Movie/master/json/api/image/nikola-t
 </introduce-text>
 
 <introduce-image>
-https://raw.githubusercontent.com/ruzhan123/Movie/master/json/api/image/nikola-tesla-pic01.jpg
+https://raw.githubusercontent.com/nahzur-h/Movie/master/json/api/image/nikola-tesla-pic01.jpg
 </introduce-image>
 
 <introduce-text>
@@ -44,7 +44,7 @@ https://raw.githubusercontent.com/ruzhan123/Movie/master/json/api/image/nikola-t
 </introduce-text>
 
 <introduce-image>
-https://raw.githubusercontent.com/ruzhan123/Movie/master/json/api/image/nikola-tesla02.jpg
+https://raw.githubusercontent.com/nahzur-h/Movie/master/json/api/image/nikola-tesla02.jpg
 </introduce-image>
 
 <introduce-text>
@@ -56,7 +56,7 @@ https://raw.githubusercontent.com/ruzhan123/Movie/master/json/api/image/nikola-t
 </introduce-text>
 
 <introduce-image>
-https://raw.githubusercontent.com/ruzhan123/Movie/master/json/api/image/nikola-tesla03.jpg
+https://raw.githubusercontent.com/nahzur-h/Movie/master/json/api/image/nikola-tesla03.jpg
 </introduce-image>
 
 <introduce-text>
@@ -68,7 +68,7 @@ https://raw.githubusercontent.com/ruzhan123/Movie/master/json/api/image/nikola-t
 </introduce-text>
 
 <introduce-image>
-https://raw.githubusercontent.com/ruzhan123/Movie/master/json/api/image/nikola-tesla-pic02.jpg
+https://raw.githubusercontent.com/nahzur-h/Movie/master/json/api/image/nikola-tesla-pic02.jpg
 </introduce-image>
 
 <introduce-text>
@@ -80,7 +80,7 @@ https://raw.githubusercontent.com/ruzhan123/Movie/master/json/api/image/nikola-t
 </introduce-text>
 
 <introduce-image>
-https://raw.githubusercontent.com/ruzhan123/Movie/master/json/api/image/nikola-tesla04.jpg
+https://raw.githubusercontent.com/nahzur-h/Movie/master/json/api/image/nikola-tesla04.jpg
 </introduce-image>
 
 <introduce-text>
@@ -97,9 +97,9 @@ https://raw.githubusercontent.com/ruzhan123/Movie/master/json/api/image/nikola-t
 </introduce-video-title>
 
 <introduce-video-image>
-https://raw.githubusercontent.com/ruzhan123/Movie/master/json/api/image/nikola-tesla-pic03.jpg
+https://raw.githubusercontent.com/nahzur-h/Movie/master/json/api/image/nikola-tesla-pic03.jpg
 </introduce-video-image>
 
 <introduce-video-m3u8>
-https://raw.githubusercontent.com/ruzhan123/Movie/master/home/nikola-tesla/playlist.m3u8
+https://raw.githubusercontent.com/nahzur-h/Movie/master/home/nikola-tesla/playlist.m3u8
 </introduce-video-m3u8>
