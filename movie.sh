@@ -28,8 +28,6 @@ handlerGitPush() {
 	cd ..
 	git add .
 	git commit -m "add ${contentText} ts set"
-	git fetch origin
-	git rebase origin/master
 	git push origin master:master
 }
 

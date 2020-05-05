@@ -1,0 +1,57 @@
+<title>
+远古外星人系列 第一季
+</title>
+
+<type>
+揭露
+</type>
+
+<image>
+https://raw.githubusercontent.com/nahzur-h/Movie/master/json/api/image/ancientalien.jpg
+</image>
+
+<content>
+有没有可能在数千年前智慧生命已经访问过地球，带来了他们的科技，彻底的改变了人类历史发展进程？
+</content>
+
+
+<introduce-text>
+有没有可能在数千年前智慧生命已经访问过地球，带来了他们的科技，彻底的改变了人类历史发展进程？
+</introduce-text>
+
+<introduce-image>
+https://raw.githubusercontent.com/nahzur-h/Movie/master/json/api/image/ancientalien01.jpg
+</introduce-image>
+
+<introduce-text>
+由Erich von Daniken撰写，1968年出版的畅销书《诸神的战车》提出了一个“远古外星人”的理论，颠覆了人们对于人类进程的信念。
+</introduce-text>
+
+<introduce-text>
+远古洞穴壁画中奇异的生物，秘鲁的飞机跑道遗迹，和印第安文字中所描述的“神的飞行器”这些反常的考古文物只是一小部分被von Daniken引用作为远古外星宇航员早已被我们的祖先所熟知的例证。
+</introduce-text>
+
+<introduce-image>
+https://raw.githubusercontent.com/nahzur-h/Movie/master/json/api/image/ancient-aliens-01-001.jpg
+</introduce-image>
+
+<introduce-text>
+本片由von Daniken自己独立制作，《远古外星人》开始了全新的探险，寻找并评估这些证据。专注于最近30年间的最新发现，包括人类进化中不寻常的DNA和从埃及到叙利亚，到南美洲的最新解密的艺术品。
+</introduce-text>
+
+<introduce-text>
+这是对于一个从很多方面来说不能全信，但又不能被忽视的理论的一场没有偏向的调查。
+</introduce-text>
+
+
+<introduce-video-title>
+远古外星人01
+</introduce-video-title>
+
+<introduce-video-image>
+https://raw.githubusercontent.com/nahzur-h/Movie/master/json/api/image/ancient-aliens-01-002.jpg
+</introduce-video-image>
+
+<introduce-video-m3u8>
+https://raw.githubusercontent.com/nahzur-h/Movie/master/home/ancient-aliens-01/playlist.m3u8
+</introduce-video-m3u8>
