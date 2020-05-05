@@ -32,7 +32,7 @@ https://raw.githubusercontent.com/nahzur-h/Movie/master/json/api/image/ontheroad
 </introduce-text>
 
 <introduce-image>
-
+https://raw.githubusercontent.com/nahzur-h/Movie/master/json/api/image/on-the-road-somalia-01-001.jpg
 </introduce-image>
 
 <introduce-video-title>
@@ -40,9 +40,9 @@ https://raw.githubusercontent.com/nahzur-h/Movie/master/json/api/image/ontheroad
 </introduce-video-title>
 
 <introduce-video-image>
-https://raw.githubusercontent.com/nahzur-h/Movie/master/json/api/image/ontheroad.jpg
+https://raw.githubusercontent.com/nahzur-h/Movie/master/json/api/image/on-the-road-somalia-01-002.jpg
 </introduce-video-image>
 
 <introduce-video-m3u8>
-https://raw.githubusercontent.com/nahzur-h/Movie/master/home/10000-hours-devin-williams-03/playlist.m3u8
+https://raw.githubusercontent.com/nahzur-h/Movie/master/home/on-the-road-somalia-01/playlist.m3u8
 </introduce-video-m3u8>
