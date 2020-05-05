@@ -36,8 +36,6 @@ void exeDayJsonGitCmd() {
     println("exeDayJsonGitCmd called...  currentTimeText: " + currentTimeText)
     exeDayJsonGitAdd()
     exeDayJsonGitCommit()
-    exeDayJsonGitFetch()
-    exeDayJsonGitRebaseMaster()
     exeDayJsonGitPushMaster()
 }
 
