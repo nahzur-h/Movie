@@ -20,7 +20,7 @@ https://raw.githubusercontent.com/nahzur-h/Movie/master/json/api/image/above-maj
 </introduce-text>
 
 <introduce-image>
-https://raw.githubusercontent.com/nahzur-h/Movie/master/json/api/image/above-majestic-002.jpg
+https://raw.githubusercontent.com/nahzur-h/Movie/master/json/api/image/above-majestic-002.png
 </introduce-image>
 
 <introduce-text>
